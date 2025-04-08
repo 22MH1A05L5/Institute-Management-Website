@@ -1,2 +1,37 @@
 # Institute-Management-Website
-this project is fully based on the html,css,javascript, and reactjs. in that project we add home page, login page, admission page, contact page, and fee page for helping student who can learn easily about this and if anyone want to take admission then then take admission through admission page like etc.
+
+## Screenshot
+
+![App Screenshot](file:///D:/website%20project/institutes%20management/index.html)
+
+
+## Features
+
+- Students can fill out institute admission form
+- They can know about the institute campus and the facilities offered by the institute.
+- Students can check their fees using this website
+
+
+
+
+
+
+**Client:** HTML, CSS, JAVASCRIPT, REACTJS
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at sudhiryadav9787@gmail.com
+
+
+## Authors
+
+- [@sudhiryadav](https://github.com/22MH1A05L5)
+
+
+## 🔗 Links
+[![linkedin]()
+
+
+https://www.linkedin.com/in/sudhiryadav9787/
